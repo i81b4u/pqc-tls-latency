@@ -1,7 +1,7 @@
 # Description of the environment
 
 ## Used software
-Client software: `curl` -> docker image [i81b4u/byo-curl:8.21.0-2026081101](https://hub.docker.com/layers/i81b4u/byo-curl/8.21.0-2026081101/images/sha256-7119df4af2e86b0e489e2031663e26fffe92b6524f830e3dcffa32a632f085a2)
+Client software: `curl` -> docker image [i81b4u/byo-curl:8.21.0-2026081101](https://hub.docker.com/layers/i81b4u/byo-curl/8.21.0-2026081101/images/sha256-7119df4af2e86b0e489e2031663e26fffe92b6524f830e3dcffa32a632f085a2)  
 Server software: `nginx` -> docker image [i81b4u/byo-nginx:1.31.3-alpine-slim](https://hub.docker.com/layers/i81b4u/byo-nginx/1.31.3-alpine-slim/images/sha256-a3c9801db465e9f9fc3dec1e845fbf2f19081eb28b4298c34ac760f9260ec31d)
 
 ### Curl setup
